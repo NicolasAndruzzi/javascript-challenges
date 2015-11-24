@@ -1,5 +1,7 @@
 # Daily Warm-up Exercises for JavaScript
 
+/////commit_streak_test
+
 #### Installation
 
 Jasmine is required for these warm-ups:
